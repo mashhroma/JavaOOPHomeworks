@@ -1,0 +1,21 @@
+<order>
+  <id>1</id>
+  <clientName>Maria</clientName>
+  <product>Milk</product>
+  <qnt>3</qnt>
+  <price>109</price>
+</order>
+<order>
+  <id>2</id>
+  <clientName>Andrey</clientName>
+  <product>Water</product>
+  <qnt>2</qnt>
+  <price>55</price>
+</order>
+<order>
+  <id>3</id>
+  <clientName>Kot</clientName>
+  <product>Whiskas</product>
+  <qnt>33</qnt>
+  <price>19</price>
+</order>
